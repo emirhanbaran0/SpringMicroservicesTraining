@@ -1,4 +1,4 @@
-package org.example;
+package org.emirhanbaran.customer;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

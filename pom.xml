@@ -14,6 +14,7 @@
     <module>Customer</module>
       <module>Fraud</module>
     <module>Eureka-Server</module>
+      <module>APIGateway</module>
   </modules>
 
   <properties>
